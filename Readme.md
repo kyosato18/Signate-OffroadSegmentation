@@ -24,7 +24,7 @@ URL: https://signate.jp/competitions/101 (認識制度部門)
 Model
 
 -  ① Unet, backborn resnet34, Focal Loss, 5fold (public: 0.8849235, private: 0.8684270)
-  - output 3channel, 全データ
+  -  output 3channel, 全データ
 - ② Unet, backborn resnet18, Focal Loss, 5fold (public: 0.8840996, private: 0.8681062)
   - output 3channel, 全データ
 - ③ Unet, backborn resnet34, BCE Loss, 5fold (public: 0.8828911, private: 0.8628499)
